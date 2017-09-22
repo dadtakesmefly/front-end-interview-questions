@@ -1,6 +1,6 @@
 # front-end-interview-questions
 
-如果你觉得本文对你很有帮助，可以点击一下下面赞助商的链接（free）👇，give me a cup of coffee
+如果你觉得本文对你很有帮助，可以点击下面赞助商的链接（free）👇，give me a cup of coffee，以支持我创作更优秀的文章噢👇
 
 
 
