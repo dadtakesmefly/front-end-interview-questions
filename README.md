@@ -1768,11 +1768,9 @@ css3使用
 
 ## Donate
 
- if you enjoy my works please consider making a donation,help me to write better articles.
+看完后觉得文章对你有帮助，不妨做点举手之劳吧~ 点击下方赞助商提供的广告，以帮助我持续产出更优质的文章吧：
 
-<img src="./alipay.jpeg" width = "350" height = "500" alt="图片名称" align=left />
 
-<img src="./wechat.jpeg" width = "350" height = "500" alt="图片名称" align=right />
-
-<br>
-
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/WUJmnK15R96GAq24F8cLA1kw/Meheal/front-end-interview-questions'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/WUJmnK15R96GAq24F8cLA1kw/Meheal/front-end-interview-questions.svg' />
+</a>
