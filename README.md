@@ -1,11 +1,11 @@
-# front-end-interview-questions
+# Donate
 
 如果你觉得文章对你很有帮助，可以点击下面赞助商的链接（free）👇，以支持我创作更优秀的文章~
 
 
 
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/WUJmnK15R96GAq24F8cLA1kw/Meheal/front-end-interview-questions'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/WUJmnK15R96GAq24F8cLA1kw/Meheal/front-end-interview-questions.svg' />
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/WUJmnK15R96GAq24F8cLA1kw/Meheal/front-end-interview-questions.svg' />
 </a>
  
 
